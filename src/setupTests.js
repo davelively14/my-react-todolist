@@ -28,6 +28,8 @@
     - Then run:
       $ npm run selenium-setup
       $ npm run selenium-start
+    - To run tests:
+      $ npm run e2e-tests
 */
 
 import { configure } from 'enzyme';
